@@ -1,0 +1,117 @@
+
+
+.e{
+
+font-size: 25px;
+text-align: justify;
+  text-justify: inter-word;
+width: 1000px;
+  word-wrap: break-word;
+
+
+
+}
+.w{
+font-size: 25px;
+text-align: justify;
+  text-justify: inter-word;
+width: 200px;
+  word-wrap: break-word;
+  background-color
+  font-style: italic;
+
+}
+.p{
+
+
+font-size: 25px;
+text-align: justify;
+  text-justify: inter-word;
+width: 200px;
+  word-wrap: break-word;
+  background-color: rgb(180, 180, 180);
+  font-style: italic;
+
+
+}
+.r{
+
+
+font-size: 20px;
+
+
+
+
+}
+.well{
+height: 280px;
+
+
+}
+.f{
+
+
+  /* The image used */
+  background: url(https://cnet2.cbsistatic.com/img/-qvJVYfnJOTphXGOc2fzSNnwQPk=/1600x900/2018/06/07/78e06ce4-81e0-4b35-992f-6a2b3585b931/mojave-night.jpg) no-repeat center center fixed #000; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+.g{
+
+font-size: 17px;
+text-align: justify;
+  text-justify: inter-word;
+width: 400px;
+  word-wrap: break-word;
+  
+  font-style: italic;	
+}
+
+.q{
+
+background-color: rgb(60, 60, 60);
+
+}
+img{
+	border-radius: 50%;
+}
+.j{
+
+font-size: 20px;
+color: white;
+
+}
+table,tr{
+
+font-size: 15px;
+text-align: justify;
+  text-justify: inter-word;
+width: 100px;
+  word-wrap: break-word;
+  border: 2px solid;
+width :100%;
+border-spacing: 10px;
+height: 100px;
+
+}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 15px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 2px 2px;
+}
